@@ -1,0 +1,40 @@
+_repo: Two-Poems-Against-PopeOne-Epistle-to-Mr.-A.-Pope-and-the-Blatant-Beast_24199
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Welsted, Mr. (Leonard)
+    birthdate: 1688
+    deathdate: 1747
+    gutenberg_agent_id: '26322'
+    url: http://www.gutenberg.org/2009/agents/26322
+  - agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://www.gutenberg.org/browse/authors/u#a49
+    - http://en.wikipedia.org/wiki/Anonymity
+  editor:
+    agent_name: Guerinot, J. V. (Joseph V.)
+    birthdate: 1928
+    gutenberg_agent_id: '26323'
+    url: http://www.gutenberg.org/2009/agents/26323
+description: ''
+gutenberg_issued: '2008-01-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24199'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pope, Alexander, 1688-1744 -- Poetry'
+- !lcc 'PR'
+title: 'Two Poems Against Pope
+
+  One Epistle to Mr. A. Pope and the Blatant Beast'
+url: http://www.gutenberg.org/ebooks/24199
