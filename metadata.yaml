@@ -23,6 +23,8 @@ creator:
     gutenberg_agent_id: '26323'
     url: http://www.gutenberg.org/2009/agents/26323
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24199#Two-Poems-Against-PopeOne-Epistle-to-Mr.-A.-Pope-and-the-Blatant-Beast
 gutenberg_issued: '2008-01-09'
 gutenberg_type: Text
 identifiers:
